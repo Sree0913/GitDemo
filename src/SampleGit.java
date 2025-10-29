@@ -9,5 +9,12 @@ public class SampleGit {
 		System.out.println("Code on Day3");
 		
 	}
+	public void Archi1() {
+		System.out.println("Arichitect1 added");
+	}
+	public void Archi2() {
+		System.out.println("Arichitect1 added");
+	}
+
 
 }
