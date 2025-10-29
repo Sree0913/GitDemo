@@ -15,6 +15,16 @@ public class SampleGit {
 	public void Archi2() {
 		System.out.println("Arichitect1 added");
 	}
+	
+	public void Archi3() {
+		System.out.println("Arichitect2 added");
+	}
 
-
+	public void Archi4() {
+		System.out.println("Arichitect2 added");
+	}
+	
+	public void Archi5() {
+		System.out.println("Arichitect2 added");
+	}
 }
